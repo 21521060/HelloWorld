@@ -6,6 +6,7 @@ print("he no")
 subject = input("Enter your subject: ")
 print("My subject is ", subject)
 print("T la Thanh day ")
+
 a = 4
 b = 6
 print("Too careless father")
