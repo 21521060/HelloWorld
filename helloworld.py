@@ -10,3 +10,4 @@ print("T la Thanh day ")
 a = 4
 b = 6
 print("Too careless father")
+omg
